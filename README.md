@@ -47,7 +47,7 @@ yarn install
 Crie um arquivo `.env.local` na raiz do projeto e defina a URL da API backend:
 
 ```env
-NEXT_PUBLIC_API_URL=http://localhost:3001
+NEXT_PUBLIC_API_URL=http://localhost:4568
 ```
 
 > Ajuste a porta conforme a configuração do seu backend.
